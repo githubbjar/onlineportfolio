@@ -16,7 +16,7 @@ The process: Completed Tutorials
 * https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-20-04
 
 ## 4: Install LEMP Stack 
-* https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-20-04
+* https://www.digitalocean.com/community/tutorials/how-to-install-linux-nginx-mysql-php-lemp-stack-on-ubuntu-20-04
 * NOTE: https://www.digitalocean.com/community/questions/nginx-server-unable-to-start-up-due-to-issues-with-conf Change sites-enabled to sites-available in config file
 
 ## 5: Install Composer 
