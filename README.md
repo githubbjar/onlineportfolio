@@ -39,7 +39,7 @@ Project is created with:
 * Docker 
 	
 ## Purpose
-* Display my personal online portfolio
+* Display my personal online portfolio using Laravel and hosting it (Digital Ocean) using a custom configuration 
 
 ```
 https://github.com/githubbjar/onlineportfolio
