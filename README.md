@@ -36,6 +36,7 @@ Project is created with:
 * MySQL 8.0.25-0
 * PHP 7.4.3
 * Composer 
+* Docker 
 	
 ## Purpose
 * Display my personal online portfolio
