@@ -28,6 +28,7 @@ The process: Completed Tutorials
 
 ## 7: Install and Set Up Laravel
 *  https://www.digitalocean.com/community/tutorials/how-to-install-and-set-up-laravel-with-docker-compose-on-ubuntu-20-04
+* NOTE: "docker-compose exec app composer install" would throw an error. I had to run "docker-compose exec app composer update laravel/framework" before I executed the "compose-install"
 
 ## Technologies
 Project is created with:
