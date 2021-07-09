@@ -38,6 +38,7 @@ Project is created with:
 * PHP 7.4.3
 * Composer 
 * Docker 
+* Larvel Framework 6.18.13
 	
 ## Purpose
 * Display my personal online portfolio using Laravel and hosting it (Digital Ocean) using a custom configuration 
