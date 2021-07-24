@@ -43,6 +43,9 @@ Project is created with:
 ## Purpose
 * Display my personal online portfolio using Laravel and hosting it (Digital Ocean) using a custom configuration 
 
+## Note
+* User root, files located var/www
+
 ```
 https://github.com/githubbjar/onlineportfolio
 ```
